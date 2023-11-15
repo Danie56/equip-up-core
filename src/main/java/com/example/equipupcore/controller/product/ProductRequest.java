@@ -10,5 +10,4 @@ public class ProductRequest {
   private Long amount;
   private String description;
   private ImageRequest imageRequest;
-
 }
