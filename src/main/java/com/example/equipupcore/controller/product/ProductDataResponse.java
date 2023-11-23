@@ -8,5 +8,4 @@ import lombok.Data;
 public class ProductDataResponse {
   private ProductResponse product;
   private ImageResponse image;
-
 }
